@@ -8,10 +8,6 @@ function ShopItem() {
         currency: '£'
     }
 
-    const styles = {
-
-    }
-
     return (
         <div className="main-content">
             <h2>{item.brand}</h2>
